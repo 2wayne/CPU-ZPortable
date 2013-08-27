@@ -2,8 +2,8 @@
 CPU-Z Readme file
 ------------------
 
-Version 1.65.1
-July 2013
+Version 1.66.1
+August 2013
 Contact : cpuz@cpuid.com
 Web page: http://www.cpuid.com/softwares/cpu-z.html
 Validation page : http://valid.canardpc.com
@@ -33,6 +33,9 @@ Display=1
 UseDisplayAPI=1
 BusClock=1
 Chipset=1
+SPD=1
+CheckUpdates=1
+
 
 - TextFontName : Font used for the information boxes. 
 - TextFontSize : Size of the font used for the information boxes. 
@@ -48,6 +51,8 @@ Chipset=1
 - UseDisplayAPI : Set to 1, uses the display driver to read the display adapters information.
 - BusClock : Set to 1, uses the bus clock as primary clock source. Set to 0 to use an alternate method.
 - Chipset : set to OFF (or 0) disables the memory controller and southbridge information. 1 to enable.
+- SPD : set to 0 to disable SPD reading. 1 to enable.
+- CheckUpdates : set to 0 to disable the new version checker at startup. 1 to enable.
 
 Parameters
 ----------
@@ -78,9 +83,15 @@ History
 -------
 
 --------------------------------------------------------------------------------------------------
-1.65.1 - July 2013
-- Intel Core i3-4xxx.
+1.66 - August 2013
+- Fixed BCLK jump bug and validation issue (1.66.1)
+- Intel Xeon E5-2600 V2, Core i3-4xxx, Core i7-3910K processors.
+- Intel Atom Bay Trail-T preliminary support.
 - Intel Ivy Bridge-E/EP/EX support improved.
+- AMD Opteron 3200 and 3300 series.
+- ITE IT8603 and IT8623 SIOs (Asus FM2+ mainboards).
+- Microsoft Windows 8.1 (Windows Blue). 
+- New version checker.
 
 --------------------------------------------------------------------------------------------------
 1.65 - June 2013
