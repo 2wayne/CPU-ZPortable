@@ -2,8 +2,8 @@
 CPU-Z Readme file
 ------------------
 
-Version 1.66.1
-August 2013
+Version 1.67.1
+November 2013
 Contact : cpuz@cpuid.com
 Web page: http://www.cpuid.com/softwares/cpu-z.html
 Validation page : http://valid.canardpc.com
@@ -83,7 +83,14 @@ History
 -------
 
 --------------------------------------------------------------------------------------------------
+1.67 - November 2013
+- Fix several validations issues (1.67.1).
+- Improved support of Intel Silvermont (Bay Trail).
+- New validation.
+
+--------------------------------------------------------------------------------------------------
 1.66 - August 2013
+- Intel Core i7-4xxx MQ/MX processors (1.66.1)
 - Fixed BCLK jump bug and validation issue (1.66.1)
 - Intel Xeon E5-2600 V2, Core i3-4xxx, Core i7-3910K processors.
 - Intel Atom Bay Trail-T preliminary support.
