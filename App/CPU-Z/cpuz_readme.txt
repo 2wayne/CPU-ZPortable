@@ -2,8 +2,8 @@
 CPU-Z Readme file
 ------------------
 
-Version 1.68
-January 2014
+Version 1.69
+March 2014
 Contact : cpuz@cpuid.com
 Web page: http://www.cpuid.com/softwares/cpu-z.html
 Validation page : http://valid.canardpc.com
@@ -81,6 +81,12 @@ The cache latency tool can be downloaded at that address : http://www.cpuid.com/
 
 History
 -------
+
+--------------------------------------------------------------------------------------------------
+1.69 - March 2014
+- AMD A6-6420K, A4-6320, A4-4020.
+- AMD Athlon 5350 & 5150, Sempron 3850 & 2650 Kabini.
+- Added graphic card vendor.
 
 --------------------------------------------------------------------------------------------------
 1.68 - January 2014
