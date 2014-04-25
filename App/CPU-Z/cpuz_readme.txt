@@ -2,8 +2,8 @@
 CPU-Z Readme file
 ------------------
 
-Version 1.69
-March 2014
+Version 1.69.2
+April 2014
 Contact : cpuz@cpuid.com
 Web page: http://www.cpuid.com/softwares/cpu-z.html
 Validation page : http://valid.canardpc.com
@@ -83,9 +83,13 @@ History
 -------
 
 --------------------------------------------------------------------------------------------------
-1.69 - March 2014
+1.69.2 - April 2014
+- Intel Haswell-E processors (1.69.2)
+- Preliminary support for DDR4 memory (1.69.2)
+- AMD FCH detection improved (1.69.2)
 - AMD A6-6420K, A4-6320, A4-4020.
 - AMD Athlon 5350 & 5150, Sempron 3850 & 2650 Kabini.
+- Intel Core i7-4770R and Core i5-4570R Crystal Well.
 - Added graphic card vendor.
 
 --------------------------------------------------------------------------------------------------
