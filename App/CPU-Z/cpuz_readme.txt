@@ -2,8 +2,8 @@
 CPU-Z Readme file
 ------------------
 
-Version 1.69.2
-April 2014
+Version 1.70
+July 2014
 Contact : cpuz@cpuid.com
 Web page: http://www.cpuid.com/softwares/cpu-z.html
 Validation page : http://valid.canardpc.com
@@ -81,6 +81,11 @@ The cache latency tool can be downloaded at that address : http://www.cpuid.com/
 
 History
 -------
+
+--------------------------------------------------------------------------------------------------
+1.70 - July 2014
+- Intel i7-5960X, i7-5930K, i7-5820K, i7-4790K, i5-4690K, Pentium G3258.
+- TSX instructions set support (including RTM and HLE subparts).
 
 --------------------------------------------------------------------------------------------------
 1.69.2 - April 2014
