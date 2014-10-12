@@ -2,8 +2,8 @@
 CPU-Z Readme file
 ------------------
 
-Version 1.70
-July 2014
+Version 1.71
+October 2014
 Contact : cpuz@cpuid.com
 Web page: http://www.cpuid.com/softwares/cpu-z.html
 Validation page : http://valid.canardpc.com
@@ -81,6 +81,13 @@ The cache latency tool can be downloaded at that address : http://www.cpuid.com/
 
 History
 -------
+
+--------------------------------------------------------------------------------------------------
+1.71 - October 2014
+- AMD Athlon X2 450, Athlon X4 840 and Athlon X4 860K (Kaveri).
+- AMD FX-8370, FX-8370E, FX-8320E (Vishera).
+- Improved support for Intel X99 chipset.
+- Support for Microsoft Windows 10. 
 
 --------------------------------------------------------------------------------------------------
 1.70 - July 2014
