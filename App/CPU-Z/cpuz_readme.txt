@@ -2,8 +2,8 @@
 CPU-Z Readme file
 ------------------
 
-Version 1.71
-October 2014
+Version 1.71.1
+November 2014
 Contact : cpuz@cpuid.com
 Web page: http://www.cpuid.com/softwares/cpu-z.html
 Validation page : http://valid.canardpc.com
@@ -83,7 +83,9 @@ History
 -------
 
 --------------------------------------------------------------------------------------------------
-1.71 - October 2014
+1.71.1 - November 2014
+- Intel Core M processors (1.71.1)
+- New CPU-Z logo (1.71.1)
 - AMD Athlon X2 450, Athlon X4 840 and Athlon X4 860K (Kaveri).
 - AMD FX-8370, FX-8370E, FX-8320E (Vishera).
 - Improved support for Intel X99 chipset.
