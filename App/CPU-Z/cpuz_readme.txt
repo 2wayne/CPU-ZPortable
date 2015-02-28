@@ -2,13 +2,12 @@
 CPU-Z Readme file
 ------------------
 
-Version 1.71.1
-November 2014
+Version 1.72
+February 2015
 Contact : cpuz@cpuid.com
 Web page: http://www.cpuid.com/softwares/cpu-z.html
 Validation page : http://valid.canardpc.com
 Hall of Fame : http://valid.canardpc.com/records.php
-Forum : http://forum.canardpc.com/forumdisplay.php?f=74
 CPUID SDK : http://www.cpuid-pro.com/products-services.php
 
 
@@ -81,6 +80,11 @@ The cache latency tool can be downloaded at that address : http://www.cpuid.com/
 
 History
 -------
+
+--------------------------------------------------------------------------------------------------
+1.72 - February 2015
+- Preliminary support for Intel Skylake.
+- Fixed support for Windows 10 build 9926.
 
 --------------------------------------------------------------------------------------------------
 1.71.1 - November 2014
