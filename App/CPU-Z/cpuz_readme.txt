@@ -2,8 +2,8 @@
 CPU-Z Readme file
 ------------------
 
-Version 1.72
-February 2015
+Version 1.72.1
+May 2015
 Contact : cpuz@cpuid.com
 Web page: http://www.cpuid.com/softwares/cpu-z.html
 Validation page : http://valid.canardpc.com
@@ -82,7 +82,8 @@ History
 -------
 
 --------------------------------------------------------------------------------------------------
-1.72 - February 2015
+1.72.1 - May 2015
+- Intel Skylake and Broadwell support (1.72.1)
 - Preliminary support for Intel Skylake.
 - Fixed support for Windows 10 build 9926.
 
