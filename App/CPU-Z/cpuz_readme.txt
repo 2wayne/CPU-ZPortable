@@ -2,12 +2,12 @@
 CPU-Z Readme file
 ------------------
 
-Version 1.72.1
-May 2015
+Version 1.73
+August 2015
 Contact : cpuz@cpuid.com
 Web page: http://www.cpuid.com/softwares/cpu-z.html
-Validation page : http://valid.canardpc.com
-Hall of Fame : http://valid.canardpc.com/records.php
+Validation page : http://valid.x86.fr/
+Hall of Fame : http://valid.x86.fr/records.php
 CPUID SDK : http://www.cpuid-pro.com/products-services.php
 
 
@@ -18,11 +18,13 @@ The configuration file must be named cpuz.ini and be present at the same directo
 as cpuz.exe. It contains the following :
 
 [CPU-Z]
-TextFontName=Verdana
-TextFontSize=13
-TextFontColor=000060
-LabelFontName=Verdana
-LabelFontSize=13
+VERSION=x.x.x.x
+TextFontName=
+TextFontSize=14
+TextFontColor=000080
+LabelFontName=
+LabelFontSize=14
+ACPI=1
 PCI=1
 MaxPCIBus=256
 DMI=1
@@ -33,6 +35,7 @@ UseDisplayAPI=1
 BusClock=1
 Chipset=1
 SPD=1
+XOC=0
 CheckUpdates=1
 
 
@@ -51,6 +54,7 @@ CheckUpdates=1
 - BusClock : Set to 1, uses the bus clock as primary clock source. Set to 0 to use an alternate method.
 - Chipset : set to OFF (or 0) disables the memory controller and southbridge information. 1 to enable.
 - SPD : set to 0 to disable SPD reading. 1 to enable.
+- XOC : eXtreme Overclock Mode : runs CPU-Z with as little system load as possible. Your system won't be fully validated before it is manually checked. Requires to restart CPU-Z.
 - CheckUpdates : set to 0 to disable the new version checker at startup. 1 to enable.
 
 Parameters
@@ -80,6 +84,14 @@ The cache latency tool can be downloaded at that address : http://www.cpuid.com/
 
 History
 -------
+
+--------------------------------------------------------------------------------------------------
+1.73 - August 2015
+- New validation.
+- eXtreme Overclock Mode with light CPU load.
+- New tab : CPU Benchmark.
+- Added L4 cache frequency (cache tab).
+- Added Windows 10 editions.
 
 --------------------------------------------------------------------------------------------------
 1.72.1 - May 2015
