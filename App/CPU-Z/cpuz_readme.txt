@@ -2,8 +2,8 @@
 CPU-Z Readme file
 ------------------
 
-Version 1.73
-August 2015
+Version 1.74
+October 2015
 Contact : cpuz@cpuid.com
 Web page: http://www.cpuid.com/softwares/cpu-z.html
 Validation page : http://valid.x86.fr/
@@ -84,6 +84,12 @@ The cache latency tool can be downloaded at that address : http://www.cpuid.com/
 
 History
 -------
+
+--------------------------------------------------------------------------------------------------
+1.74 - October 2015
+- Improved CPU benchmark.
+- AMD Carrizo APUs.
+- eDRAM detection on Slylake CPUs.
 
 --------------------------------------------------------------------------------------------------
 1.73 - August 2015
