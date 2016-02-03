@@ -2,8 +2,8 @@
 CPU-Z Readme file
 ------------------
 
-Version 1.74
-October 2015
+Version 1.75
+January 2016
 Contact : cpuz@cpuid.com
 Web page: http://www.cpuid.com/softwares/cpu-z.html
 Validation page : http://valid.x86.fr/
@@ -84,6 +84,12 @@ The cache latency tool can be downloaded at that address : http://www.cpuid.com/
 
 History
 -------
+
+--------------------------------------------------------------------------------------------------
+1.75 - January 2016
+- Intel Skylake Pentium and Celeron support.
+- Intel Broadwell-E preliminary support.
+- AMD A10-7890K APU.
 
 --------------------------------------------------------------------------------------------------
 1.74 - October 2015
