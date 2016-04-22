@@ -2,8 +2,8 @@
 CPU-Z Readme file
 ------------------
 
-Version 1.75
-January 2016
+Version 1.76
+April 2016
 Contact : cpuz@cpuid.com
 Web page: http://www.cpuid.com/softwares/cpu-z.html
 Validation page : http://valid.x86.fr/
@@ -84,6 +84,12 @@ The cache latency tool can be downloaded at that address : http://www.cpuid.com/
 
 History
 -------
+
+--------------------------------------------------------------------------------------------------
+1.76 - April 2016
+- Intel Broadwell-E/EP processors.
+- AVX512 instruction set report.
+- Fixed several bugs (missing SPD on some systems).
 
 --------------------------------------------------------------------------------------------------
 1.75 - January 2016
