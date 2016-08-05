@@ -2,8 +2,8 @@
 CPU-Z Readme file
 ------------------
 
-Version 1.76
-April 2016
+Version 1.77
+August 2016
 Contact : cpuz@cpuid.com
 Web page: http://www.cpuid.com/softwares/cpu-z.html
 Validation page : http://valid.x86.fr/
@@ -84,6 +84,13 @@ The cache latency tool can be downloaded at that address : http://www.cpuid.com/
 
 History
 -------
+
+--------------------------------------------------------------------------------------------------
+1.77 - August 2016
+- New benchmark "submit and compare" feature.
+- New clocks dialog reporting all system's clock speeds in real-time.
+- Preliminary support for Intel Kaby Lake.
+- AMD Bristol Ridge processors.
 
 --------------------------------------------------------------------------------------------------
 1.76 - April 2016
