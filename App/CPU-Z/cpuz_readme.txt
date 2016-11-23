@@ -2,8 +2,8 @@
 CPU-Z Readme file
 ------------------
 
-Version 1.77
-August 2016
+Version 1.78
+November 2016
 Contact : cpuz@cpuid.com
 Web page: http://www.cpuid.com/softwares/cpu-z.html
 Validation page : http://valid.x86.fr/
@@ -79,11 +79,18 @@ F7 : save cvf file in the current directory
 Cache Latency Tool
 ------------------
 
-The cache latency tool can be downloaded at that address : http://www.cpuid.com/medias/files/softwares/misc/latency.zip
+The cache latency tool can be downloaded at that address : http://download.cpuid.com/misc/latency.zip
 
 
 History
 -------
+
+--------------------------------------------------------------------------------------------------
+1.78 - November 2016
+- Intel Kaby Lake processors.
+- AMD Embedded G and R-series processors.
+- DMP Vortex86 DX3.
+- Tons of bug fixes.
 
 --------------------------------------------------------------------------------------------------
 1.77 - August 2016
