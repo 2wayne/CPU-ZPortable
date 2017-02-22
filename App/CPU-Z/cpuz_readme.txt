@@ -2,8 +2,8 @@
 CPU-Z Readme file
 ------------------
 
-Version 1.78
-November 2016
+Version 1.78.3
+February 2017
 Contact : cpuz@cpuid.com
 Web page: http://www.cpuid.com/softwares/cpu-z.html
 Validation page : http://valid.x86.fr/
@@ -86,7 +86,8 @@ History
 -------
 
 --------------------------------------------------------------------------------------------------
-1.78 - November 2016
+1.78.3 - February 2017
+- AMD Ryzen (1.78.3)
 - Intel Kaby Lake processors.
 - AMD Embedded G and R-series processors.
 - DMP Vortex86 DX3.
