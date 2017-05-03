@@ -2,8 +2,8 @@
 CPU-Z Readme file
 ------------------
 
-Version 1.78.3
-February 2017
+Version 1.79
+April 2017
 Contact : cpuz@cpuid.com
 Web page: http://www.cpuid.com/softwares/cpu-z.html
 Validation page : http://valid.x86.fr/
@@ -84,6 +84,12 @@ The cache latency tool can be downloaded at that address : http://download.cpuid
 
 History
 -------
+
+--------------------------------------------------------------------------------------------------
+1.79 - April 2017
+- AMD Ryzen 5 and Ryzen 3.
+- Fix lockup at loading on Ryzen systems with RAID.
+- New benchmark version (17.01).
 
 --------------------------------------------------------------------------------------------------
 1.78.3 - February 2017
