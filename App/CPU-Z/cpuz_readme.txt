@@ -2,8 +2,8 @@
 CPU-Z Readme file
 ------------------
 
-Version 1.79
-April 2017
+Version 1.79.1
+May 2017
 Contact : cpuz@cpuid.com
 Web page: http://www.cpuid.com/softwares/cpu-z.html
 Validation page : http://valid.x86.fr/
@@ -86,7 +86,9 @@ History
 -------
 
 --------------------------------------------------------------------------------------------------
-1.79 - April 2017
+1.79.1 - May 2017
+- Intel X299 (1.79.1).
+- AMD ThreadRipper (1.79.1).
 - AMD Ryzen 5 and Ryzen 3.
 - Fix lockup at loading on Ryzen systems with RAID.
 - New benchmark version (17.01).
