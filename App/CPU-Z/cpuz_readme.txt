@@ -2,8 +2,8 @@
 CPU-Z Readme file
 ------------------
 
-Version 1.79.1
-May 2017
+Version 1.80
+July 2017
 Contact : cpuz@cpuid.com
 Web page: http://www.cpuid.com/softwares/cpu-z.html
 Validation page : http://valid.x86.fr/
@@ -84,6 +84,11 @@ The cache latency tool can be downloaded at that address : http://download.cpuid
 
 History
 -------
+
+--------------------------------------------------------------------------------------------------
+1.80 - July 2017
+- Intel Core X processors (KBL-X and SKL-X).
+- Preferred core(s) display in clocks dialog.
 
 --------------------------------------------------------------------------------------------------
 1.79.1 - May 2017
