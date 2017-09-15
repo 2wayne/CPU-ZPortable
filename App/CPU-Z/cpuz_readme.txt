@@ -2,8 +2,8 @@
 CPU-Z Readme file
 ------------------
 
-Version 1.80
-July 2017
+Version 1.80.2
+September 2017
 Contact : cpuz@cpuid.com
 Web page: http://www.cpuid.com/softwares/cpu-z.html
 Validation page : http://valid.x86.fr/
@@ -86,9 +86,10 @@ History
 -------
 
 --------------------------------------------------------------------------------------------------
-1.80 - July 2017
+1.80.2 - September 2017
 - Intel Core X processors (KBL-X and SKL-X).
 - Preferred core(s) display in clocks dialog.
+- Fix 32-bit version issue with Windows 10 builds 16273 and 16275 (1.80.2)
 
 --------------------------------------------------------------------------------------------------
 1.79.1 - May 2017
