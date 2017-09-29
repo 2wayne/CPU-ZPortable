@@ -2,7 +2,7 @@
 CPU-Z Readme file
 ------------------
 
-Version 1.80.2
+Version 1.81
 September 2017
 Contact : cpuz@cpuid.com
 Web page: http://www.cpuid.com/softwares/cpu-z.html
@@ -84,6 +84,12 @@ The cache latency tool can be downloaded at that address : http://download.cpuid
 
 History
 -------
+
+--------------------------------------------------------------------------------------------------
+1.81 - September 2017
+- Intel Coffee Lake processors and Z370 platform.
+- intel Skylake-X HCC processors.
+- Intel Xeon Skylake-SP and Xeon W Skylake processors.
 
 --------------------------------------------------------------------------------------------------
 1.80.2 - September 2017
