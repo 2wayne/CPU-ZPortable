@@ -2,8 +2,8 @@
 CPU-Z Readme file
 ------------------
 
-Version 1.81
-September 2017
+Version 1.81.1
+October 2017
 Contact : cpuz@cpuid.com
 Web page: http://www.cpuid.com/softwares/cpu-z.html
 Validation page : http://valid.x86.fr/
@@ -86,9 +86,9 @@ History
 -------
 
 --------------------------------------------------------------------------------------------------
-1.81 - September 2017
+1.81.1 - October 2017
 - Intel Coffee Lake processors and Z370 platform.
-- intel Skylake-X HCC processors.
+- Intel Skylake-X HCC processors.
 - Intel Xeon Skylake-SP and Xeon W Skylake processors.
 
 --------------------------------------------------------------------------------------------------
